@@ -1,7 +1,7 @@
 {
   "name": "DML-MD",
   "description": "An Advanced Whatsapp bot 🚀 built for fast automation, media tool, and smooth group management developed by Daudy Musa",
-  "logo": "https://files.catbox.moe/vcdwmp.jpg",
+  "logo": "https://files.catbox.moe/7dkq50.jpg",
   "keywords": ["DML-MD"],
   "success_url": "/",
 
@@ -91,7 +91,7 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "255622220680"
+      "value": "255615752312"
 
     }, 
 
